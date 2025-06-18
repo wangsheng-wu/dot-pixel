@@ -5,6 +5,9 @@ Use the Jupyter notebook to turn a blank background photo of a subject (e.g., a 
 - A dots and sticks background photo with the original subject.
 
 
+![cat-example](https://github.com/user-attachments/assets/7532d3fd-90ea-45a1-8fe0-ae90414c58d5)
+
+
 ## To Create a Hover-and-Reveal Effect
 You can use the two output photos to achieve a hover-and-reveal effect to display a photo of you in your personal website. To achieve that, refer to the following codes:
 ```
